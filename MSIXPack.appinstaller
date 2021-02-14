@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <AppInstaller
 	Uri="https://olaafrossi.github.io/PackageWPF/MSIXPack.appinstaller"
-	Version="1.0.6.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
+	Version="1.0.7.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
 	<MainBundle
 		Name="ThreeByte.WPF.Sample.S2b536121-5a14-425d-b04b"
-		Version="1.0.6.0"
+		Version="1.0.7.0"
 		Publisher="CN=&quot;Three Byte Intermedia, Inc.&quot;, O=&quot;Three Byte Intermedia, Inc.&quot;, L=New York, S=New York, C=US"
-		Uri="https://olaafrossi.github.io/PackageWPF/MSIXPack_1.0.6.0/MSIXPack_1.0.6.0_x64.msixbundle" />
+		Uri="https://olaafrossi.github.io/PackageWPF/MSIXPack_1.0.7.0/MSIXPack_1.0.7.0_x64.msixbundle" />
 	<UpdateSettings>
 		<OnLaunch
 			HoursBetweenUpdateChecks="0" />
